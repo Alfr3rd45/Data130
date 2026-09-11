@@ -9,5 +9,5 @@ I'm Alfred, an aspiring data scientist passionate about solving real-world probl
 
 ## Featured Projects 🚀
 
-1. **[Project 1 Title]** - Short sentence about the business impact or prediction goal.
+1. ** Interactive Greeting Project** - prompts the user to enter their name and their area of study within the data science field.
 2. **[Project 2 Title]** - Short sentence about what insights were discovered.

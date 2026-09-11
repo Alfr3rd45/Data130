@@ -15,3 +15,6 @@ This Python program asks the user for their name and displays a personalized gre
 - `input()` takes user keyboard input as a string.
 - `print()` displays text or output on the screen.
 - This program prompts the user for their name and prints a personalized welcome message for Data Science.
+
+# Future Improvements
+If I continued working on this project, I would add links to their favourite topics in data science once they once they enter what they want to learn.

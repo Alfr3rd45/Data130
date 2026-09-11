@@ -1,4 +1,4 @@
-# Data130
+# My projects
 # Hi, I'm Alfred | Aspiring Data Scientist 📊
 - 🛠 Languages & Tools: Python (Pandas, NumPy, Scikit-
 Learn), SQL, Tableau
